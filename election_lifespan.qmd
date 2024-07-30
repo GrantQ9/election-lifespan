@@ -1,0 +1,5 @@
+---
+title: "Election Lifespan Impact"
+author: "Grant Quattlebaum"
+format: html
+---
